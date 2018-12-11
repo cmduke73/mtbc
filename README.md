@@ -1,3 +1,3 @@
 # mtbc
-my working repository for MicroTrain's Dev Bootcamp
-my first working branch
+my working repository for MicroTrain's Dev Boootcamp
+my first dev branch commit
